@@ -5,6 +5,7 @@ Disha Barua
 
 # Link
 Deployed code: https://disha2022.github.io/challenge1_db/
+
 Github repository:https://github.com/Disha2022/challenge1_db
 
 # Project Description
@@ -30,7 +31,7 @@ Purpose of this project is to refactor an existing webpage to make it accessible
 2. Updated Css per modification made in index file
 
 ## webpage photo after modification
-![photo of the Webpage after modification.](./develop/assets/images/horiseon.png)
+![photo of the Webpage after modification.](./assets/images/horiseon.png)
 
 
 # References
