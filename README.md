@@ -3,11 +3,15 @@
 # Author
 Disha Barua
 
-# Description
+# Link
+Deployed code: https://disha2022.github.io/challenge1_db/
+Github repository:https://github.com/Disha2022/challenge1_db
+
+# Project Description
 Purpose of this project is to refactor an existing webpage to make it accessible and to improve SEO. 
 
 # Modification
-##index.html
+## index.html
 1. Fixed link for "Search engine optimization"
 2. Replaced div with header
 3. Replaced div with nav
@@ -21,9 +25,13 @@ Purpose of this project is to refactor an existing webpage to make it accessible
 11. Added footer
 12. Edited css code per change made in index. 
 
-# URL
-Deployed code:
-Github repository:
+## style.css
+1. Removed classes to avoid redundency and minimize the code.
+2. Updated Css per modification made in index file
+
+## webpage photo after modification
+![photo of the Webpage after modification.](./develop/assets/images/horiseon.png)
+
 
 # References
 # User Story
