@@ -8,10 +8,18 @@ Deployed code: https://disha2022.github.io/challenge1_db/
 
 Github repository:https://github.com/Disha2022/challenge1_db
 
+# User Story
+```
+AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our site is optimized for search engines
+```
 # Project Description
 Purpose of this project is to refactor an existing webpage to make it accessible and to improve SEO. 
 
-# Modification
+## Tools
+1. CSS
+2. HTML
+
+## Modification
 ## index.html
 1. Fixed link for "Search engine optimization"
 2. Replaced div with header
@@ -35,10 +43,6 @@ Purpose of this project is to refactor an existing webpage to make it accessible
 
 
 # References
-# User Story
-```
-AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our site is optimized for search engines
-```
 
 ## Acceptance Criteria
 ```
